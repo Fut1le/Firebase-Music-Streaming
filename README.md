@@ -6,7 +6,7 @@
 
 [![platform-badge]][github]
 [![minsdk-badge]][github]
-[![github]][github]
+[![github]]
 
 <!------------------------------------------------------------------------->
 
