@@ -27,7 +27,7 @@ Android application for streaming music in real time using Firebase.
 
 ```
 service firebase.storage {
-    match /b/YOUR_APP_PACKAGE.appspot.com/o {
+    match /b/YOUR_APP_ID.appspot.com/o {
         match /{allPaths=**} {
             allow read, write: if true;
         }
