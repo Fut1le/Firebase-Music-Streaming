@@ -1,5 +1,13 @@
-# Firebase-music-streaming
-Streaming Android Music App
+# Firebase-Music-Streaming
+Android application for streaming music in real time using Firebase.
+
+## Features
+- You can upload music to storage
+- You can listen your music from storage
+- You can easily modify the program code
+- Availability of notifications
+- Track covers
+
 
 ## Screenshots
 <div style="dispaly:flex">
