@@ -16,12 +16,12 @@ Android application for streaming music in real time using Firebase.
 </div>
 
 ## How to setup my app
-1. Clone this repo
-2. Open in Adroid Studio
-3. Create new Firebase project
-4. Rename the project package name
-5. Add **google-services.json** in /app folder
-6. In the Firebase console switch on Storage & Real-time Database
-7. Edit the Firebase Storage rules
-8. Have fun! 😏
+**1.** Clone this repo
+**2.** Open in Adroid Studio
+**3.** Create new Firebase project
+**4.** Rename the project package name
+**5.** Add **google-services.json** in /app folder
+**6.** In the Firebase console switch on Storage & Real-time Database
+**7.** Edit the Firebase Storage rules
+**8.** Have fun! 😏
 
