@@ -2,6 +2,7 @@
 [platform-badge]:   https://img.shields.io/badge/Platform-Android-F3745F.svg
 [minsdk-badge]:     https://img.shields.io/badge/minSdkVersion-16-F3745F.svg
 
+<!------------------------------------------------------------------------------------------------------->
 
 # Firebase-Music-Streaming
 Android application for streaming music in real time using Firebase.
