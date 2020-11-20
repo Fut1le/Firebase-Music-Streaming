@@ -23,8 +23,6 @@ Android application for streaming music in real time using Firebase.
 5. Add **google-services.json** in /app folder
 6. In the Firebase console switch on Storage & Real-time Database
 7. Edit the Firebase Storage rules
-8. Have fun! 😏
-
 ```
 service firebase.storage {
     match /b/YOUR_APP_ID.appspot.com/o {
@@ -34,3 +32,4 @@ service firebase.storage {
     }
 }
 ```
+8. Have fun! 😏
