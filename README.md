@@ -45,7 +45,7 @@ service firebase.storage {
     }
 }
 ```
-# Firebase Realtime Database
+# Firebase Realtime Database Rules
 ```
 {
   "rules": {
