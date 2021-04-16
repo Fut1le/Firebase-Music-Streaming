@@ -35,6 +35,7 @@ Android application for streaming music in real time using Firebase.
 7. Edit the Firebase Storage rules
 8. Have fun! 😏
 
+# Firebase Storage Rules
 ```
 service firebase.storage {
     match /b/YOUR_APP_ID.appspot.com/o {
@@ -42,5 +43,14 @@ service firebase.storage {
             allow read, write: if true;
         }
     }
+}
+```
+# Firebase Realtime Database
+```
+{
+  "rules": {
+    ".read": true,
+    ".write": true
+  }
 }
 ```
